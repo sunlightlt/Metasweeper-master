@@ -3,8 +3,7 @@
 - project with 8 modes of minesweeper, third generation minesweeper video player and high performance algorithm toolbox
  
 [![MetaSweeper](https://img.shields.io/badge/MetaSweeper-v3.2.0-brightgreen.svg)](https://github.com/eee555/Solvable-Minesweeper)
-[![stars](https://img.shields.io/github/stars/eee555/Solvable-Minesweeper)](https://github.com/eee555/Solvable-Minesweeper/stargazers)
-[![forks](https://img.shields.io/github/forks/eee555/Solvable-Minesweeper)](https://github.com/eee555/Solvable-Minesweeper/forks)
+
 
 
 ## 简介
@@ -67,9 +66,6 @@ Advantages:
 
 Currently in the lengthy development phase, with updates approximately every 1 to 3 months, we welcome issues, stars, pull requests, and forks.
 
-### 开发计划
-
-+ 使用教程：[https://fff666.top/#/guide/[80.%E6%95%99%E7%A8%8B.%E8%BD%AF%E4%BB%B6]%E5%85%83%E6%89%AB%E9%9B%B7%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B](https://fff666.top/#/guide/[80.%E6%95%99%E7%A8%8B.%E8%BD%AF%E4%BB%B6]%E5%85%83%E6%89%AB%E9%9B%B7%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 + 算法工具箱地址：[https://github.com/eee555/ms_toollib](https://github.com/eee555/ms_toollib)
 + 算法工具箱文档：[https://docs.rs/ms_toollib](https://docs.rs/ms_toollib)
 
@@ -133,28 +129,6 @@ Currently in the lengthy development phase, with updates approximately every 1 t
 [https://twitter.com/RustRepos/status/1636837781765799940](https://twitter.com/RustRepos/status/1636837781765799940)
 
 元扫雷网官方扫雷软件[https://fff666.top](https://fff666.top)
-
-## 赞助
-感谢您考虑支持我们的开源项目，赞助时请备注您的称呼（或Github主页）。您的赞助将有助于项目的持续发展和改进，使我们能够继续提高软件的质量（owner许诺向所有contributor按获得赞助时commit数量的比例分配赞助得到的收入）。 
-
-### 一般赞助者
-- 一次性捐款￥10或以上
-- 您的名字将出现在项目的贡献者列表中
-
-### 高级赞助者
-- 一次性捐款￥50或以上
-- 您的名字将出现在项目的贡献者列表中
-- 独家定期报告项目进展  
-
-![](readme_pic/微信收款码.png) ![](readme_pic/支付宝收款码.png)  
-
-
-## 贡献者列表
-
-| 赞助商 | 金额 | 时间 | 渠道 | 分配情况 |
-| :------: | :-----:  | :----------: | :------: | :------: |
-| *松 | ¥72.60 | 2024-04-04 | 微信 | 未分配 |
-| *昌 | ¥55.00 | 2024-07-27 | 支付宝 | 未分配 |
 
 
 ## 下载链接
